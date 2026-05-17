@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About me
 
-- 🖥️ **3+ years** as a Windows + Linux Systems Administrator
+- 🖥️ **4+ years** as a Windows + Linux Systems Administrator
 - ⚙️ Hands-on with **VMware & KVM** virtualisation in production
 - 🚀 Currently on **Month 4 of a 6-month structured DevOps roadmap**
 - 📚 Building every skill into a real GitHub project — no tutorial repos
