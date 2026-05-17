@@ -2,7 +2,7 @@
 
 **Systems Administrator → DevOps Engineer** · Cairo, Egypt
 
-> "3 years keeping systems running taught me what breaks and why.
+> "4 years keeping systems running taught me what breaks and why.
 > Now I'm building the automation layer that prevents it from happening at all."
 
 ![Open to work](https://img.shields.io/badge/Open%20to-DevOps%20Roles-238636?style=flat-square)
