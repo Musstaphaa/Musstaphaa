@@ -113,10 +113,10 @@ Phase 6   Prometheus · Grafana · Grand Pipeline Project     ✅ Complete
 | Certification | Issuer | Status |
 |--------------|--------|--------|
 | AWS Cloud Practitioner | Amazon Web Services | 🔄 In progress |
-| CCNA 200-301 | Cisco | ✅ |
-| CompTIA Security+ | CompTIA | ✅ |
-| MCSA | Microsoft | ✅ |
-| Sophos Firewall Administration | Sophos | ✅ |
+| Network Administration | Cisco | Self-study |
+| Google IT Support | Coursera | ✅ |
+| System Administration | Microsoft | Applied |
+| Security+ | CompTIA |  CompTIA Security+ |
 | Cisco Endpoint Security | Cisco | ✅ |
 
 ---
