@@ -18,7 +18,6 @@
 - ✅ Completed a **structured 6-month DevOps roadmap** — every skill built into a real project
 - 🏗️ Built a **complete end-to-end CI/CD pipeline** deploying a Python app to **AWS EKS** using Jenkins, Terraform, Docker, Prometheus and Grafana
 - 🔧 Solved real production problems: Docker-out-of-Docker, Kubernetes resource constraints, IAM cross-service auth
-- 🎓 **CCNA · CompTIA Security+ · MCSA** certified
 - 📍 Cairo, Egypt — open to local and remote roles
 
 ---
