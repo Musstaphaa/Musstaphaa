@@ -2,7 +2,7 @@
 
 **DevOps Engineer** · Cairo, Egypt · 5+ years infrastructure experience
 
-> *"I spent 4 years keeping systems running. Now I build the pipelines that make manual work obsolete."*
+> *"I spent 5 years keeping systems running. Now I build the pipelines that make manual work obsolete."*
 
 ![DevOps Engineer](https://img.shields.io/badge/Role-DevOps%20Engineer-1A5276?style=flat-square)
 ![Cairo Egypt](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-0969da?style=flat-square)
@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About me
 
-- 🏢 **4+ years** as a Windows + Linux Systems Administrator at enterprise level
+- 🏢 **5+ years** as a Windows + Linux Systems Administrator at enterprise level
 - ⚙️ Production experience with **VMware vCenter, Veeam DR, Sophos Firewall, Active Directory**
 - ✅ Completed a **structured 6-month DevOps roadmap** — every skill built into a real project
 - 🏗️ Built a **complete end-to-end CI/CD pipeline** deploying a Python app to **AWS EKS** using Jenkins, Terraform, Docker, Prometheus and Grafana
